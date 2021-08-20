@@ -1,5 +1,7 @@
 # file-checksum
 
+ローカルファイルの SHA256 を計算するサンプル.
+
 ## Project setup
 ```
 npm install
